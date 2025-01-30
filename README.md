@@ -4,7 +4,7 @@ This repo contains all the Excel files needed to follow along this Bootcamp.
 
 ## Table of Contents
 
-### [Chapter 1: Spreadsheets_Intro](/1_Spreadsheets_Intro/)
+### [Chapter 1: Spreadsheets_Intro](/Beginner/1_Spreadsheet/)
 - Worksheets
 - Workbooks
 - Ribbon
