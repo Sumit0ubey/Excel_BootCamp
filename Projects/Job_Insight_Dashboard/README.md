@@ -1,6 +1,9 @@
 
 # Project 2 : Job Insights Analysis
 
+![ScreenRecording2025-01-30143858-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/02430b57-38ee-483e-acb7-665e9132f33e)
+
+
 ## Introduction
 
 As a job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
