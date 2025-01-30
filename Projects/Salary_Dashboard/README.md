@@ -1,6 +1,7 @@
 # Project 1 : Salary Dashboard
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![ScreenRecording2025-01-30214011-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b1c33649-e87a-4ddf-a558-26d8d6566b0b)
+
 
 ## Introduction
 
