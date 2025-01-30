@@ -1,7 +1,7 @@
 
 # Project 2 : Job Insights Analysis
 
-![ScreenRecording2025-01-30143858-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/02430b57-38ee-483e-acb7-665e9132f33e)
+    ![ScreenRecording2025-01-30143858-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/02430b57-38ee-483e-acb7-665e9132f33e)
 
 
 ## Introduction
