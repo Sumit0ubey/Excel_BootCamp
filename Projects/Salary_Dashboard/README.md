@@ -74,7 +74,7 @@ IF(
 ![image](https://github.com/user-attachments/assets/ce639625-7e9e-472f-8f00-d574d73d0587)
 
 📉 Dashboard Implementation
-
+![image](https://github.com/user-attachments/assets/574d0b29-4c5e-4d68-b9f3-13de49e7da3c)
 
 #### ⏰ Count of Job Schedule Type
 
