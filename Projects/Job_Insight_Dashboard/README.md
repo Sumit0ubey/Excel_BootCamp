@@ -1,5 +1,5 @@
 
-# Project 2 Analysis
+# Project 2 : Job Insights Analysis
 
 ## Introduction
 
