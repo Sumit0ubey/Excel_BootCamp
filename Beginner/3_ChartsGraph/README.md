@@ -22,8 +22,6 @@ Welcome to the **Excel BootCamp - Charts & Graphs** folder! 🎨📈 This sectio
 ### ✅ Description
 Column charts display data using vertical bars. They are useful for comparing values across categories.
 
-![productivity-148197_640](https://github.com/user-attachments/assets/99ed8172-5c8e-45ec-831c-00dd668b2594)
-
 ### 🔍 Use Cases
 - Sales comparison by month
 - Population analysis across cities
@@ -37,8 +35,6 @@ Insert > Charts > Column Chart
 ## 2️⃣ 📈 Line Charts
 ### ✅ Description
 Line charts connect data points using lines, making them ideal for showing trends over time.
-
-![graph-36929_640](https://github.com/user-attachments/assets/aa3ede1a-e05b-44c4-948a-b48d78619802)
 
 ### 🔍 Use Cases
 - Stock market trends
@@ -54,8 +50,6 @@ Insert > Charts > Line Chart
 ### ✅ Description
 Pie charts show proportions by dividing data into slices.
 
-![pie-chart-149727_640](https://github.com/user-attachments/assets/7284bd13-5aca-409c-9b78-6b50d1ee6438)
-
 ### 🔍 Use Cases
 - Market share representation
 - Budget distribution
@@ -69,8 +63,6 @@ Insert > Charts > Pie Chart
 ## 4️⃣ 📌 Bar Charts
 ### ✅ Description
 Bar charts are similar to column charts but use horizontal bars.
-
-![Bar Chart](images/bar_chart.png)
 
 ### 🔍 Use Cases
 - Comparing product sales
@@ -86,8 +78,6 @@ Insert > Charts > Bar Chart
 ### ✅ Description
 Area charts emphasize trends over time using filled areas.
 
-![Area Chart](images/area_chart.png)
-
 ### 🔍 Use Cases
 - Revenue growth visualization
 - Rainfall analysis
@@ -101,8 +91,6 @@ Insert > Charts > Area Chart
 ## 6️⃣ 🟢 Scatter (XY) Charts
 ### ✅ Description
 Scatter charts show relationships between two numerical variables.
-
-![Scatter Chart](images/scatter_chart.png)
 
 ### 🔍 Use Cases
 - Correlation between study hours and grades
@@ -118,8 +106,6 @@ Insert > Charts > Scatter Chart
 ### ✅ Description
 Bubble charts extend scatter plots by adding a third data dimension (size of the bubble).
 
-![Bubble Chart](images/bubble_chart.png)
-
 ### 🔍 Use Cases
 - Comparing sales, profit, and market size
 - Risk analysis in investments
@@ -133,8 +119,6 @@ Insert > Charts > Bubble Chart
 ## 8️⃣ ⏳ Stock Charts
 ### ✅ Description
 Stock charts display stock market data like open, high, low, and close prices.
-
-![Stock Chart](images/stock_chart.png)
 
 ### 🔍 Use Cases
 - Stock market analysis
@@ -150,8 +134,6 @@ Insert > Charts > Stock Chart
 ### ✅ Description
 Radar charts visualize multiple variables using a spider-web format.
 
-![Radar Chart](images/radar_chart.png)
-
 ### 🔍 Use Cases
 - Performance evaluation (e.g., employee skills)
 - Product feature comparison
@@ -165,8 +147,6 @@ Insert > Charts > Radar Chart
 ## 🔟 🏆 Combo Charts
 ### ✅ Description
 Combo charts combine two or more chart types in one visualization.
-
-![Combo Chart](images/combo_chart.png)
 
 ### 🔍 Use Cases
 - Revenue vs. profit analysis
