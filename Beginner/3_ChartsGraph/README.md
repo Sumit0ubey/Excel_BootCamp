@@ -22,7 +22,7 @@ Welcome to the **Excel BootCamp - Charts & Graphs** folder! 🎨📈 This sectio
 ### ✅ Description
 Column charts display data using vertical bars. They are useful for comparing values across categories.
 
-![Column Chart](images/column_chart.png)
+![Column Chart](![productivity-148197_1280](https://github.com/user-attachments/assets/2c11fcb7-a593-436d-b2f0-e636e6f101a6))
 
 ### 🔍 Use Cases
 - Sales comparison by month
