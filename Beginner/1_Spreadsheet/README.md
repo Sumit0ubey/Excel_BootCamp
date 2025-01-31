@@ -68,4 +68,4 @@ To begin learning Excel, follow the exercises in this repository, starting with 
 - **📂 Datasets/** - It Contains all the datasets used in this Bootcamp.
 
 ## 📧 Contact
-For any queries, feel free to reach out via : [📩 Email](mailto:sumitdubey378@gmail.com)
+For any queries, feel free to reach out via : [📩 Email](mailto:dubeysumit378@gmail.com)
