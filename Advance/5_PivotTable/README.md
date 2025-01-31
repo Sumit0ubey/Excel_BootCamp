@@ -1,4 +1,4 @@
-# 📊 Excel BootCamp: Pivot Table
+# 📊 Excel BootCamp - Pivot Table
 
 ## 🏆 Overview
 Pivot Tables help summarize and analyze large datasets in Excel. This guide covers the basics to get you started.
