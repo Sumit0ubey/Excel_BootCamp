@@ -1,4 +1,4 @@
-# 📊  Excel BootCamp - Advanced Data Analysis Guide
+# 📊  Excel BootCamp - Advanced Data Analysis
 
 ## 🏆 Overview
 Advanced Data Analysis in Excel helps process, visualize, and extract meaningful insights from large datasets. This guide explains essential techniques like What-If Analysis, Goal Seek, and the Data Analysis ToolPak in a simple and easy-to-understand format.
