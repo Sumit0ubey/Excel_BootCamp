@@ -22,7 +22,6 @@ Welcome to the **Excel BootCamp - Charts & Graphs** folder! 🎨📈 This sectio
 ### ✅ Description
 Column charts display data using vertical bars. They are useful for comparing values across categories.
 
-![productivity-148197_1280](https://github.com/user-attachments/assets/2c11fcb7-a593-436d-b2f0-e636e6f101a6)
 ![productivity-148197_640](https://github.com/user-attachments/assets/99ed8172-5c8e-45ec-831c-00dd668b2594)
 
 ### 🔍 Use Cases
@@ -39,7 +38,7 @@ Insert > Charts > Column Chart
 ### ✅ Description
 Line charts connect data points using lines, making them ideal for showing trends over time.
 
-![Line Chart](images/line_chart.png)
+![graph-36929_640](https://github.com/user-attachments/assets/aa3ede1a-e05b-44c4-948a-b48d78619802)
 
 ### 🔍 Use Cases
 - Stock market trends
@@ -55,7 +54,7 @@ Insert > Charts > Line Chart
 ### ✅ Description
 Pie charts show proportions by dividing data into slices.
 
-![Pie Chart](images/pie_chart.png)
+![pie-chart-149727_640](https://github.com/user-attachments/assets/7284bd13-5aca-409c-9b78-6b50d1ee6438)
 
 ### 🔍 Use Cases
 - Market share representation
