@@ -142,3 +142,7 @@ Ensures smooth operation of formulas:
 ---
 ## 🎯 Conclusion
 This guide serves as a solid foundation for mastering Excel formulas and functions.🚀
+
+---
+## 📧 Contact
+For any queries, feel free to reach out via : [📩 Email](mailto:dubeysumit378@gmail.com)
