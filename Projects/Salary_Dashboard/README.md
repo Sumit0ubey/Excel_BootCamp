@@ -108,3 +108,6 @@ IF(
 ## Conclusion
 
 I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from the Datasets, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+
+## 📧 Contact
+For any queries, feel free to reach out via : [📩 Email](mailto:dubeysumit378@gmail.com)
