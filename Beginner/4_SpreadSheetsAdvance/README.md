@@ -99,3 +99,5 @@ Whole Number → Between → 1 and 50
 Mastering tables and formatting in Excel enhances readability, ensures consistency, and improves data management.🚀
 
 ---
+## 📧 Contact
+For any queries, feel free to reach out via : [📩 Email](mailto:dubeysumit378@gmail.com)
